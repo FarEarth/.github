@@ -1,25 +1,27 @@
-# Platform documentation
+![alt text](<https://github.com/farearth/farearth-docs/FarEarth Labs logo.png>)
 
-Learn how to get the most out of FarEarth.
+### [*FarEarth* help guides](https://github.com/farearth/farearth-docs/guides/How-to/)
+(For users & admins)
 
-## For users & admins
+These [documents](https://github.com/farearth/farearth-docs/guides/How-to/) help you to help yourself
 
-These documents help you to help yourself.
+### [*FarEarth* integration](https://github.com/farearth/farearth-docs/integration/)
+(For developers)
 
-* [FarEarth platform references](https://github.com/pinkmatter/sys-docs)
-* [FarEarth help guides](https://github.com/pinkmatter/farearth-docs/blob/main/How-to%20guides/README.md)
+These [documents](https://github.com/farearth/farearth-docs/integration/) help you integrate your existing systems with FarEarth
 
-## For scientists
+### [*FarEarth* platform references](https://github.com/farearth/farearth-docs/platform-references/)
+(For users & admins)
 
-Theory books describe the scientific basis of the algorithms used to process image products.
+These [documents](https://github.com/farearth/farearth-docs/platform-references/) help you to help yourself
 
-The Format books describe the format, structure, and metadata for each image product type. 
+### [*FarEarth* products](https://github.com/farearth/farearth-docs/products/)
+(For scientists)
 
-* [FarEarth format & theory books](https://github.com/pinkmatter/farearth-docs)
+[Theory books](https://github.com/farearth/farearth-docs/products/) describe the scientific basis of the algorithms used to process image products
 
-## For developers
+The [Format books](https://github.com/farearth/farearth-docs/products/) describe the format, structure, and metadata for each image product type
 
-Integrate your other systems with FarEarth.
+### [*FarEarth* releases](https://github.com/farearth/farearth-docs/releases/)
 
-* [FarEarth integration guides](https://github.com/pinkmatter/sys-docs/tree/3.19/developer)
-* [FarEarth API examples](https://github.com/pinkmatter/farearth-api-examples)
+[Release notes](https://github.com/farearth/farearth-docs/releases/)
