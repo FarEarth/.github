@@ -1,4 +1,4 @@
-![alt text](<https://github.com/farearth/farearth-docs/FarEarth Labs logo.png>)
+![alt text](<https://github.com/farearth/farearth-docs/blob/main/FarEarth Labs logo.png>)
 
 ### [*FarEarth* help guides](https://github.com/farearth/farearth-docs/guides/How-to/)
 (For users & admins)
