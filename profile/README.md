@@ -1,9 +1,9 @@
 ![alt text](<https://github.com/farearth/farearth-docs/blob/main/FarEarth Labs logo.png>)
 
-### [FarEarth help guides](https://github.com/farearth/farearth-docs/tree/main/guides/How-to/)
+### [FarEarth guides](https://github.com/farearth/farearth-docs/tree/main/guides/How-to/)
 (For users & admins)
 
-These [documents](https://github.com/farearth/farearth-docs/tree/main/guides/How-to/) help you to help yourself
+These [how-to documents](https://github.com/farearth/farearth-docs/tree/main/guides/How-to/) help you to help yourself
 
 ### [FarEarth integration](https://github.com/farearth/farearth-docs/tree/main/integration/)
 (For developers)
