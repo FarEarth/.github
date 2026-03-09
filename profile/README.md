@@ -25,3 +25,9 @@ The [Format books](https://github.com/farearth/farearth-docs/tree/main/products/
 ### [FarEarth releases](https://github.com/farearth/farearth-docs/tree/main/releases/)
 
 [Release notes](https://github.com/farearth/farearth-docs/tree/main/releases/)
+
+### [Tools](https://github.com/farearth/tools)
+
+Useful tools:
+* [GVerify](https://github.com/FarEarth/tools/tree/main/GVerify) - a tool that measures the geometric accuracy of an satellite orthorectified image
+* [Landsat MD Writer](https://github.com/FarEarth/tools/tree/main/landsat-md-writer) - generates LPGS compatible mission data from a raw telemetry data
