@@ -22,6 +22,10 @@ These [documents](https://github.com/farearth/farearth-docs/tree/main/platform-r
 
 The [Format books](https://github.com/farearth/farearth-docs/tree/main/products/) describe the format, structure, and metadata for each image product type
 
+### [FarEarth FAQ](https://github.com/FarEarth/farearth-docs/tree/main/FAQ/)
+
+[Frequently asked questions](https://github.com/FarEarth/farearth-docs/tree/main/FAQ/)
+
 ### [FarEarth releases](https://github.com/farearth/farearth-docs/tree/main/releases/)
 
 [Release notes](https://github.com/farearth/farearth-docs/tree/main/releases/)
